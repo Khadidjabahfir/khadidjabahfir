@@ -9,7 +9,7 @@ I do find joy and comfort in debugging and solving hard challenages.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Frameworks:**  
 - PHP (Laravel), JavaScript (React.js), Python (Flask), C++, Kotlin , flutter , Golang ,Java
@@ -23,7 +23,7 @@ I do find joy and comfort in debugging and solving hard challenages.
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 - **NrohoServer** – Laravel + MongoDB backend for ride booking  
 - **Humanify** – AI-powered app concept helping people in daily life
@@ -31,13 +31,9 @@ I do find joy and comfort in debugging and solving hard challenages.
 
 ---
 
-## 📈 My GitHub Stats
 
-![Kadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadidjabahfir&show_icons=true&theme=tokyonight)
 
----
-
-## 📫 Let’s Connect
+##  Let’s Connect
 
 - **School Email:** khadidja.bahfir@ensia.edu.dz
 - **Work Email:** bahfirkhadidja04@gmail.com
